@@ -20,7 +20,7 @@ Java, object-oriented programming, inheritance, interfaces, ArrayList, Comparabl
 - `Database.java` — searching, sorted insertion, payment processing, and persistence
 
 ## Setup
-This project depends on course-provided `Entry`, `Useable`, `Maintainable`, and `EntryException` definitions, which are not included here. Add authorized copies of these files before compiling:
+The course-provided `Entry.java`, `Useable.java`, `Maintainable.java`, and `EntryException.java` files are included. To compile the Java classes:
 
 ```bash
 javac *.java
